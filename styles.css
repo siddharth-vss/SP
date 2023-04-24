@@ -1,0 +1,29 @@
+#a123{
+    height:96% ;
+    width: 100%;
+    background-image: url("img/background.jpg");
+    background-position: center;
+    background-size:cover ;
+}
+
+#a{
+    background-color: rgba(4, 4,4, 0.6);
+    display: block;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    height: 90%;
+    margin-bottom: 8%;
+    margin-left: 12.5%;
+
+
+}
+#bg{
+    margin-top:10%;
+    margin-left: 3.5% ;
+    background-image: url("img/background1.jpg");
+    height:60% ;
+    width: 50%;
+    background-position: center;
+    background-size:cover ;
+}
